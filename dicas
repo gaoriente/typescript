@@ -1,0 +1,11 @@
+colocando typescript
+
+1 - Criar o tsconfig.json para que ele receba as requisições
+
+
+TERMINAL
+1 - instalar o compilador do typescript 'sudo npm install typescript -g'
+2 - tsc -w
+
+
+Declarando variavel - let {NOME}: {TIPO(STRING,NUMBER)}
